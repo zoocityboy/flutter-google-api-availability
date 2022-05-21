@@ -1,4 +1,6 @@
-import 'package:meta/meta.dart';
+// ignore_for_file: public_member_api_docs
+
+import 'package:flutter/foundation.dart';
 
 /// Indicates possible states of the Google Api Services availability.
 class GooglePlayServicesAvailability {
